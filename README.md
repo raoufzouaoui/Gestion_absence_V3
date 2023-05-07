@@ -7,7 +7,9 @@ This project is a web application designed to help teachers manage the absences 
 ## Installation:
 
 Clone the project repository.
+
 Make sure you have Node.js and Angular CLI installed on your system.
+
 Create a MySQL database and import the database.sql file included in the project.
 Update the database credentials in the application.properties file located in the backend/src/main/resources directory.
 Navigate to the frontend directory and run the command "npm install" to install the necessary dependencies.
