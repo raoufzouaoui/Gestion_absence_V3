@@ -1,7 +1,6 @@
 # Gestion_absence_V3
 ## Gestion d'etudiant et d'absence  (spring-boot/angular)
 
-## README for "Gestion des absences d'étudiants" project
 
 This project is a web application designed to help teachers manage the absences of their students. With this application, teachers can easily add student absences, view their absences, and validate justifications for those absences. Students can also view their own absences and add justifications for any missed classes. This project uses Angular for the front-end, MySQL for the database, and Spring Boot for the back-end.
 
